@@ -1,0 +1,14 @@
+.banner{
+    height: 800px;
+    width: 100%;
+    background-image: url("../../assets/25816e82-cae1-5e7e-88bd-795d9cfab27a.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.bbtn {
+    position: absolute; 
+    bottom: 50px; 
+    right: 80px; 
+}

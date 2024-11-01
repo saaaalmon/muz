@@ -1,0 +1,52 @@
+.nizh{
+    display: flex;
+    align-items: center;
+}
+
+.zagalov{
+    width: 460px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.tsena{
+    color: #e8b826;
+    font-size: 32px;
+    margin-right: 60px;
+}
+
+
+
+.button{
+    background-color: #e8b826;
+    color: white;
+    width: 420px;
+    height: 48px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.Tovars{
+    margin-top: 40px;
+}
+
+.imagecart{
+    width: 420px;
+    height: 344px;
+    border-radius: 10px;
+}
+
+.Textik{
+    color: white;
+}
+
+.button a{
+    color: white;
+}
+
+.quantity{
+    margin-left: 225px;
+}

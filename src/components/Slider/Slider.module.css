@@ -1,0 +1,13 @@
+.kartinka{
+    display: flex;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 30px;
+}
+
+.skiderr{
+    margin-top: 120px;
+    max-width: 1800px;
+}
